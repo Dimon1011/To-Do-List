@@ -1,6 +1,7 @@
 #To Do List GUI By Dima Volkov
 #Python 3.6
 #Part 1: crate the GUI Elements
+# For testing purposes
 import Tkinter
 import random 
 from Tkinter import *
