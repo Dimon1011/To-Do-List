@@ -1,4 +1,5 @@
-#To Do List GUI By Dima Volkov
+#To Do List GUI By Dima__!
+
 #Python 3.6
 #Part 1: crate the GUI Elements
 # For testing purposes
